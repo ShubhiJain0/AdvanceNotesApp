@@ -30,3 +30,9 @@ A feature-rich Notes App built using **React**, **TypeScript**, and **Zustand** 
    git clone https://github.com/yourusername/notes-app.git
    cd notes-app
    npm run dev
+---
+## Demonstration
+
+
+https://github.com/user-attachments/assets/39e70171-19c7-4bc4-acf0-195c4ee7b226
+
